@@ -6,8 +6,7 @@ const OpportunityList = () => {
     const [opportunities, setOpportunities] = useState([]);
 
     useEffect(() => {
-        // Fetch opportunities when the component mounts
-        axios.get('http://localhost:5000/opportunity')
+       
             .then(response => {
                 setOpportunities(response.data);
             })

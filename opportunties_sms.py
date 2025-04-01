@@ -4,8 +4,8 @@ def fun(message):
   from twilio.rest import Client
 
 # Your Twilio Account SID and Auth Token from twilio.com/console
-  account_sid = 'ACb5b59f965b5f89f82fa6110425f933d6'
-  auth_token = '92702e653a7ffd87ecdaaec4a9e2d8bf'
+#   account_sid = 'ACb5b59f965b5f89f82fa6110425f933d6'
+#   auth_token = '92702e653a7ffd87ecdaaec4a9e2d8bf'
 
 # Create a Twilio client
   client = Client(account_sid, auth_token)

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import axios from 'axios';
 // import './styles.css'; // Import your Tailwind CSS styles
 
 const OpportunityForm = () => {
@@ -14,7 +13,6 @@ const OpportunityForm = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post('http://localhost:5000/opportunity', opportunity);
             console.log(response.data);
             setOpportunity({
                 title: '',
