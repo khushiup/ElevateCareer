@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # ElevateCareer
 ElevateCareer is an AI based chatbot with many unique features such as one to one mentoring session with mentors, Resume Scanner, Opportunity Notifications related to interested domain and Counseller application Dashboard.
+=======
+# Problem Statement 2 :
+
+# AI Chat-based Career Counseling Application
+
+Career mantri is an AI based chatbot with many unique features such as one to one mentoring session with mentors, Resume Scanner, Opportunity Notifications related to interested domain and Counseller application Dashboard.
+>>>>>>> 24aaa9c (Initial commit)
 
 ## Overview
 
@@ -68,3 +76,9 @@ The primary goal of this challenge is to design and implement an AI Chat-based a
 1. Install the necessary dependencies.
 2. Run the Flask backend.
 3. Run the React frontend.
+<<<<<<< HEAD
+=======
+
+## Architecture
+![Screenshot (159)](https://github.com/DhananjayDogne/nit_b_chatbot_2/assets/120880974/968187f5-fb30-403c-a76d-3ff8a9859172)
+>>>>>>> 24aaa9c (Initial commit)
